@@ -40,8 +40,9 @@ DALLAS is a distributed test software designed to systematically test the networ
 **Current work** @ [CV_RTS](https://github.com/eeyzs1/CV_RTS) _(Mar 2025 - Present)_
 Investigating how four proposed strategies influence the tuning of PUGD in terms of perturbation radius and scale of weight. In addition, studying optimal usage timing of PUGD
   - Perturbated Unit Gradient Descent (PUGD) algorithm is one optimizer method that combined the Unit gradient descent(UGD) with Sharpness aware minimization (SAM).
-  - I was inspired by 
-  - 
+  - This research (CV_RTS) stems from the confusion I encountered while reading the PUGD paper. Specifically, I was puzzled about why unit perturbation radius could yield the optimal loss landscape and the underlying algorithmic conflicts between PUGD and SAM. Additionally, the concept of early stopping inspired me to explore the possibility of identifying an appropriate timing for applying PUGD.
+  - In response to these considerations, I proposed four strategies based on cosine annealing to adjust the perturbation radius and weight scale, and investiagted about late launching of PUGD.
+  - Experimental results on the tested datasets demonstrate that the proposed methods can enhance the performance of the trained model.
 
 ## 👩🏼‍🎓 Education
 
