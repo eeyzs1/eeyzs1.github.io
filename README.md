@@ -9,7 +9,7 @@ Software engineer and researcher based in Shandong China <br>
       <p style="font-size: 18px;"><b>academic email: u6743850@alumni.anu.edu.au</b></p>
       <p style="font-size: 18px;"><b>personal email: 15763036963@163.com</b></p>
       <p style="font-size: 18px;"><b>phone num: +86 15763036963</b></p>
-      <a href="https://github.com/eeyzs1/"  target="_blank">访问我的GitHub主页</a>
+      <!-- <a href="https://github.com/eeyzs1/"  target="_blank">visit my github homepage</a> -->
     </td>
     <td width="25%">
       <img src="/pic.jpg" width="100%">
