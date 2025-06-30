@@ -51,7 +51,7 @@ Investigating how four proposed strategies influence the effect of PUGD in terms
 [Master of Computing](https://programsandcourses.anu.edu.au/2025/program/7706XMCOMP) - Australian National University, Canberra, Australia _(Sep 2018 - July 2020)_
 The Master of Computing is an AQF level 9 Masters Degree (Coursework) qualification, taught in English and normally takes two years of full-time study or part-time equivalent consisting of 96 units. 
 
-**Bachelor of Enginnering**
+**Bachelor of Engineering**
 [EEE-BEng](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2025/Electrical-and-Electronic-Engineering-BEng-Hons-U6UEEENG.html) - The University of Nottingham, Nottingham, United Kingdom _(2015 - 2017)_
 [EEA](https://www.nottingham.edu.cn/cn/Study-with-us/Undergraduate/Courses/Prospectus.aspx?id=0bfa4dcc-5834-47bf-9a07-7802b672ef68&language=zh) - The University of Nottingham, Ningbo, China _(2013 - 2015)_
-Bachelor of Enginnering with Honours in Electrical and Electronic Engineering in the First Class
+Bachelor of Engineering with Honours in Electrical and Electronic Engineering in the First Class
