@@ -48,7 +48,7 @@ Investigating how four proposed strategies influence the effect of PUGD in terms
 ## 👩🏼‍🎓 Education
 
 **Master of computing (coursework)**
-[Master of Computing](https://programsandcourses.anu.edu.au/2025/program/7706XMCOMP) - Australian National University, Canberra, Australia _(Sep 2018 - July 2020)_
+[Master of Computing](https://programsandcourses.anu.edu.au/2025/program/7706XMCOMP) - Australian National University, Canberra, Australia _(July 2018 - July 2020)_
 The Master of Computing is an AQF level 9 Masters Degree (Coursework) qualification, taught in English and normally takes two years of full-time study or part-time equivalent consisting of 96 units. 
 
 **Bachelor of Engineering**
