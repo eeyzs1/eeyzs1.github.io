@@ -20,7 +20,7 @@ Software engineer and researcher based in Shandong China <br>
 ## 👩🏼‍💻 Engineering Experience
 **Autodidact** _(Aug 2024 - Mar 2025)_
 During this period, I learned some things that I hoped to learn, and generated 2 repos as return to the community:
-[TA](https://github.com/eeyzs1/TA): TA means trading analysis, this is a repo that explained all functions from talib based on its source code and knowledge about trading analysis by comments.
+[TA](https://github.com/eeyzs1/TA): TA means trading analysis, this is a repo that explained all functions from talib based on its source code and knowledge about trading analysis by comments. I was also added some TA code for choose stocks in it.
 
 [foolishr](https://github.com/eeyzs1/foolishr): A repo of web dev with grpc which is a high-performance open-source feature-rich RPC framework for efficient and simple communication between client and server.
 
