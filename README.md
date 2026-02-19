@@ -12,7 +12,7 @@ Software engineer and researcher based in Shandong China <br>
       <!-- <a href="https://github.com/eeyzs1/"  target="_blank">visit my github homepage</a> -->
     </td>
     <td width="25%">
-      <img src="/pic.jpg" width="100%">
+      <img src="/input.jpg" width="100%">
     </td>
   </tr>
 </table>
