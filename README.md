@@ -27,6 +27,8 @@ During this period, I am doing some open source repos:
 
 [foolishr](https://github.com/eeyzs1/foolishr): A repo of web dev with grpc which is a high-performance open-source feature-rich RPC framework for efficient and simple communication between client and server.
 
+[AI_Generated_Projects](https://github.com/eeyzs1/AI_Generated_Projects): I'm going to use vibe coding to generate some projects and try to avoid writing a single line of code!
+
 **Game developer** @ [4fools1](https://store.steampowered.com/app/3180460/4fools1/) _(Jan 2024 - July 2024)_
 4fools1 is a 2d game developed by godot engine.
   - Designed, developed and published the whole game the whole game except the art part.
