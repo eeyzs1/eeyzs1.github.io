@@ -18,16 +18,18 @@ Software engineer and researcher based in Shandong China <br>
 </table>
 
 ## 👩🏼‍💻 Engineering Experience
-**Open source repos** _(Aug 2024 - Now)_
+**Open source repos** _(Mar 2024 - Now)_
 During this period, I am doing some open source repos:
+
+[AI_Generated_Projects](https://github.com/eeyzs1/AI_Generated_Projects): I'm going to use vibe coding to generate some projects and try to avoid writing a single line of code! constructing...
+
+[agent_demos](https://github.com/eeyzs1/agent_demos): A repo of agent demos, constructing...
 
 [t2f](https://github.com/eeyzs1/t2f): T2F, short for Text-to-Film, is what I identify as the next key target for visual generation technology. For the time being, this repository focuses mainly on housing documentation and detailed explanations of underlying principles.
 
 [TA](https://github.com/eeyzs1/TA): TA means trading analysis, this is a repo that explained all functions from talib based on its source code and knowledge about trading analysis by comments. I was also added some TA code for choose stocks in it.
 
 [foolishr](https://github.com/eeyzs1/foolishr): A repo of web dev with grpc which is a high-performance open-source feature-rich RPC framework for efficient and simple communication between client and server.
-
-[AI_Generated_Projects](https://github.com/eeyzs1/AI_Generated_Projects): I'm going to use vibe coding to generate some projects and try to avoid writing a single line of code!
 
 **Game developer** @ [4fools1](https://store.steampowered.com/app/3180460/4fools1/) _(Jan 2024 - July 2024)_
 4fools1 is a 2d game developed by godot engine.
