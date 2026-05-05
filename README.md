@@ -1,7 +1,7 @@
 # Zongyuan Sui
 
-Software engineer and researcher based in Shandong China <br>
-<!-- <a href="/index-en.html">中文版</a> -->
+Software engineer and researcher based in Shandong, China <br>
+
 <table border="5">
   <tr>
     <td width="75%">
@@ -9,7 +9,7 @@ Software engineer and researcher based in Shandong China <br>
       <p style="font-size: 18px;"><b>academic email: u6743850@alumni.anu.edu.au</b></p>
       <p style="font-size: 18px;"><b>personal email: 15763036963@163.com</b></p>
       <p style="font-size: 18px;"><b>phone num: +86 15763036963</b></p>
-      <!-- <a href="https://github.com/eeyzs1/"  target="_blank">visit my github homepage</a> -->
+      <p style="font-size: 18px;"><b>GitHub: <a href="https://github.com/eeyzs1" target="_blank">github.com/eeyzs1</a></b></p>
     </td>
     <td width="25%">
       <img src="/input.jpg" width="100%">
@@ -18,45 +18,74 @@ Software engineer and researcher based in Shandong China <br>
 </table>
 
 ## 👩🏼‍💻 Engineering Experience
-**Open source repos** _(Mar 2024 - Now)_
-During this period, I am doing some open source repos:
 
-[AI_Generated_Projects](https://github.com/eeyzs1/AI_Generated_Projects): I'm going to use vibe coding to generate some projects and try to avoid writing a single line of code! constructing...
+### AI & LLM Projects _(Jan 2026 - Present)_
 
-[agent_demos](https://github.com/eeyzs1/agent_demos): A repo of agent demos, constructing...
+[AIFSI](https://github.com/eeyzs1/AIFSI): AI for Simultaneous Interpretation — building real-time AI-powered interpretation system (Python)
 
-[t2f](https://github.com/eeyzs1/t2f): T2F, short for Text-to-Film, is what I identify as the next key target for visual generation technology. For the time being, this repository focuses mainly on housing documentation and detailed explanations of underlying principles.
+[agent_demos](https://github.com/eeyzs1/agent_demos): A collection of agent demos and experiments with various agent architectures (Python)
 
-[TA](https://github.com/eeyzs1/TA): TA means trading analysis, this is a repo that explained all functions from talib based on its source code and knowledge about trading analysis by comments. I was also added some TA code for choose stocks in it.
+[AI_Generated_Projects](https://github.com/eeyzs1/AI_Generated_Projects): Vibe coding projects — generating applications entirely through AI without writing a single line of code (Python)
 
-[foolishr](https://github.com/eeyzs1/foolishr): A repo of web dev with grpc which is a high-performance open-source feature-rich RPC framework for efficient and simple communication between client and server.
+[llm_ranking_list](https://github.com/eeyzs1/llm_ranking_list): Collecting and tracking the rankings of large language models across benchmarks (Python)
 
-**Game developer** @ [4fools1](https://store.steampowered.com/app/3180460/4fools1/) _(Jan 2024 - July 2024)_
-4fools1 is a 2d game developed by godot engine.
-  - Designed, developed and published the whole game the whole game except the art part.
-  - Main art resources collected from open free resources, miscellaneous made with Krita.
+[AIMSA](https://github.com/eeyzs1/AIMSA): AI-powered project (Python)
+
+[agent_dev](https://github.com/eeyzs1/agent_dev): Agent development framework and tooling (Python)
+
+### Mobile & Flutter Apps _(Apr 2026 - Present)_
+
+[rftranslator](https://github.com/eeyzs1/rftranslator): A Flutter-based translator application (Dart)
+
+[rfbrowser](https://github.com/eeyzs1/rfbrowser): Real Free Browser with AI capability enhancement — a browser app powered by AI features (Dart)
+
+[rfplayer](https://github.com/eeyzs1/rfplayer): A Flutter-based media player application (Dart)
+
+### Deep Learning & Research
+
+[pytorch_general_techs](https://github.com/eeyzs1/pytorch_general_techs): Collection of general PyTorch techniques, tips and implementations (Jupyter Notebook)
+
+[t2f](https://github.com/eeyzs1/t2f): T2F (Text-to-Film) — identified as the next key target for visual generation technology. This repository focuses on documentation and detailed explanations of underlying principles
+
+### Fintech & Quantitative Analysis
+
+[TA](https://github.com/eeyzs1/TA): Trading Analysis — explains all functions from TA-Lib based on source code, with commentary and knowledge about trading analysis. Includes custom stock selection code
+
+[company_analyzer](https://github.com/eeyzs1/company_analyzer): Company analysis tool for financial evaluation (Python)
+
+### Web & Backend
+
+[FE](https://github.com/eeyzs1/FE): Frontend project (TypeScript)
+
+[webcrawler](https://github.com/eeyzs1/webcrawler): Web crawler implementation
+
+[foolishr](https://github.com/eeyzs1/foolishr): Web development with gRPC — a high-performance open-source feature-rich RPC framework for efficient and simple communication between client and server
+
+[im_micro_svcs](https://github.com/eeyzs1/im_micro_svcs): Instant messaging microservices architecture (Python)
+
+[vector_db](https://github.com/eeyzs1/vector_db): Vector database implementation (Python)
+
+### Game Development
+
+**Game developer** @ [4fools1](https://store.steampowered.com/app/3180460/4fools1/) ([source](https://github.com/eeyzs1/4fools)) _(Jan 2024 - July 2024)_
+4fools1 is a 2D game developed with Godot Engine (GDScript)
+  - Designed, developed and published the entire game except the art part
+  - Main art resources collected from open free resources, miscellaneous made with Krita
+
+### Professional Experience
 
 **Software Engineer** @ [Ericsson](https://www.ericsson.com/) _(Nov 2020 - Nov 2023)_
-DALLAS is a distributed test software designed to systematically test the network elements of the core network, and has implemented the simulation of the main network elements of 345G and their core functions.
-  - do new features, mainly to develop new functions according to the new requirements from customers
-  - solve trouble reports which contains the problems encountered in the process of software usage from internal or external users
-  - improve the software, which optimizes and refactor the implementation of software
-  - In response to these tasks, I mainly carried out the following actions: (1) Read the documentation, communicate in a timely manner, and understand the real needs of the customer. (2) Analyze the problem with appropriate tools and try to reproduce the problem with as little effort as possible. (3) Review the code, parse the underlying purpose, implement and optimize the code.
-    
-<!-- ## 🗞 Researcher Experience
-**Current work** @ [CV_RTS](https://github.com/eeyzs1/CV_RTS) _(Mar 2025 - Present)_
-Investigating how four proposed strategies influence the effect of PUGD in terms of perturbation radius and scale of weight. In addition, studying optimal usage timing of PUGD
-  - Perturbated Unit Gradient Descent (PUGD) algorithm is one optimizer method that combined the Unit gradient descent (UGD) with Sharpness aware minimization (SAM).
-  - This research (CV_RTS) stems from the confusion I encountered while reading the PUGD paper. Specifically, I was puzzled about why unit perturbation radius could yield the optimal loss landscape and the underlying algorithmic conflicts between PUGD and SAM. Additionally, the concept of early stopping inspired me to explore the possibility of identifying an appropriate timing for applying PUGD.
-  - In response to these considerations, I proposed four strategies based on cosine annealing to adjust the perturbation radius and weight scale, and investigated about late launching of PUGD.
-  - Experimental results on the tested datasets demonstrate that the proposed methods can enhance the performance of the trained model.
-  - Progress has been slowed by limited computing resources, prompting expanded experimental data collection efforts. -->
+DALLAS is a distributed test software designed to systematically test the network elements of the core network, and has implemented the simulation of the main network elements of 3G/4G/5G and their core functions
+  - Developed new features according to customer requirements
+  - Solved trouble reports containing problems encountered during software usage from internal/external users
+  - Improved software through optimizations and refactoring
+  - Key actions: (1) Read documentation, communicate promptly, understand customer needs. (2) Analyze problems with appropriate tools, reproduce with minimal effort. (3) Review code, parse underlying purpose, implement and optimize
 
 ## 👩🏼‍🎓 Education
 
-**Master of computing (coursework)**
+**Master of Computing (Coursework)**
 [Master of Computing](https://programsandcourses.anu.edu.au/2025/program/7706XMCOMP) - Australian National University, Canberra, Australia _(July 2018 - July 2020)_
-The Master of Computing is an AQF level 9 Masters Degree (Coursework) qualification, taught in English and normally takes two years of full-time study or part-time equivalent consisting of 96 units. 
+The Master of Computing is an AQF level 9 Masters Degree (Coursework) qualification, taught in English and normally takes two years of full-time study or part-time equivalent consisting of 96 units
 
 **Bachelor of Engineering**
 [EEE-BEng](https://www.nottingham.ac.uk/studywithus/ugstudy/courses/UG/2025/Electrical-and-Electronic-Engineering-BEng-Hons-U6UEEENG.html) - The University of Nottingham, Nottingham, United Kingdom _(2015 - 2017)_
